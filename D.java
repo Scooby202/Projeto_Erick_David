@@ -45,4 +45,10 @@ public class D {
 
     }
 
+    public void MD3 () {
+
+        System.out.println("Método: MD3");
+
+    }
+
 }
