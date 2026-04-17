@@ -45,9 +45,15 @@ public class D {
 
     }
 
+<<<<<<< HEAD
     public void MD3 () {
 
         System.out.println("Método: MD3");
+=======
+    public void MD4 () {
+
+        System.out.println("Método: MD4");
+>>>>>>> bc5515cc20618e7af6b8c6255764480e4838ccc9
 
     }
 
