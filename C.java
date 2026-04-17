@@ -46,4 +46,10 @@ public class C {
 
     }
 
+    public void MC3 () {
+
+        System.out.println("Método: MC3");
+
+    }
+
 }
