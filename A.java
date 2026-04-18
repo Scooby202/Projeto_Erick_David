@@ -52,7 +52,7 @@ public class A {
 
     }
 
-    public int getsoma(int A, int B) {
-        return A + B;
+    public int getSoma(int a, int b) {
+        return a + b;
     }
 }
