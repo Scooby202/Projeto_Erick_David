@@ -52,6 +52,10 @@ public class A {
 
     }
 
+    public void getsoma(int A, int B){
+        int soma;
+        soma = A + B;
+    }
 }
 
 
